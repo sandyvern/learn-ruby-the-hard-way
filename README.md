@@ -1,2 +1,2 @@
-# learn-ruby-the-hard-way
-Lesson exercises from the book Learn Ruby the Hard Way
+# Learn Ruby the Hard Way
+#### Lesson exercises from the book Learn Ruby the Hard Way
